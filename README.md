@@ -1,1 +1,6 @@
-# Aleksandrov-15IS-2
+
+<p>
+  <ul>
+    <li> Урок 1 c git </li>
+</ul>
+</p>
